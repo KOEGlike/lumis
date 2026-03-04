@@ -46,3 +46,7 @@
 9. Screw on the back panels.
 
     <img src="image-7.png" alt="Back panels screwed in" height="320" />
+
+## Diagram
+
+<img src="image-8.png" alt="Back panels screwed in" height="320" />
