@@ -8,6 +8,4 @@ This is a forearm band with an 8*36 LED matrix, that's battery powered. It uses 
 
 I used [WLED](https://github.com/wled/WLED) as the firmware because it provides a nice UI and support for matrices
 
-## Insturctions
-
-Found [here](https://github.com/KOEGlike/lumis/blob/main/instructions/INSTRUCTIONS.md)
+## Insturctions [HERE](https://github.com/KOEGlike/lumis/blob/main/instructions/INSTRUCTIONS.md)
