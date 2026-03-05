@@ -9,4 +9,4 @@ It uses a Xiao esp32-c3, that has Wi-Fi and Bluetooth, and a snap on 3d-printed 
 
 I used [WLED](https://github.com/wled/WLED) as the firmware because it provides a nice UI and support for matrices
 
-## Insturctions [HERE](https://github.com/KOEGlike/lumis/blob/main/instructions/INSTRUCTIONS.md)
+### Insturctions [HERE](https://github.com/KOEGlike/lumis/blob/main/instructions/INSTRUCTIONS.md)
